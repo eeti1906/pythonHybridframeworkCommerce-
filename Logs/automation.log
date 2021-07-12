@@ -48,3 +48,31 @@
 2021-07-12 15:50:29,660 - INFO - *****Login DDT test Passed*******
 2021-07-12 15:50:29,808 - INFO - ******* END of login DDT Test **********
 2021-07-12 15:50:29,809 - INFO - *********** Completed TC_LoginDDT_002 ********
+2021-07-13 00:39:26,286 - INFO - ********Test_001_login**********
+2021-07-13 00:39:26,286 - INFO - ********Test_001_login**********
+2021-07-13 00:39:26,287 - INFO - ********Verifying home page title**********
+2021-07-13 00:39:26,287 - INFO - ********Verifying home page title**********
+2021-07-13 00:39:29,427 - INFO - ******** home page title test passed**********
+2021-07-13 00:39:29,427 - INFO - ******** home page title test passed**********
+2021-07-13 00:39:30,535 - INFO - ********Verifying login test**********
+2021-07-13 00:39:30,535 - INFO - ********Verifying login test**********
+2021-07-13 00:39:38,040 - INFO - ********login test passed**********
+2021-07-13 00:39:38,040 - INFO - ********login test passed**********
+2021-07-13 00:39:39,156 - INFO - ********Test__002_DDT_testLogin**********
+2021-07-13 00:39:39,156 - INFO - ********Test__002_DDT_testLogin**********
+2021-07-13 00:39:39,157 - INFO - ********Verifying login test**********
+2021-07-13 00:39:39,157 - INFO - ********Verifying login test**********
+2021-07-13 00:39:51,732 - INFO - ****Passed***
+2021-07-13 00:39:51,732 - INFO - ****Passed***
+2021-07-13 00:39:59,531 - INFO - ***Passed*****
+2021-07-13 00:39:59,531 - INFO - ***Passed*****
+2021-07-13 00:40:05,989 - INFO - ***Passed*****
+2021-07-13 00:40:05,989 - INFO - ***Passed*****
+2021-07-13 00:40:11,512 - INFO - ***Passed*****
+2021-07-13 00:40:11,512 - INFO - ***Passed*****
+2021-07-13 00:40:11,513 - INFO - *****Login DDT test Passed*******
+2021-07-13 00:40:11,513 - INFO - *****Login DDT test Passed*******
+2021-07-13 00:40:15,630 - INFO - ******* END of login DDT Test **********
+2021-07-13 00:40:15,630 - INFO - ******* END of login DDT Test **********
+2021-07-13 00:40:15,631 - INFO - *********** Completed TC_LoginDDT_002 ********
+2021-07-13 00:40:15,631 - INFO - *********** Completed TC_LoginDDT_002 ********
