@@ -39,3 +39,12 @@
 2021-07-11 11:14:45,474 - INFO - *****Login DDT test Passed*******
 2021-07-11 11:14:45,543 - INFO - ******* END of login DDT Test **********
 2021-07-11 11:14:45,544 - INFO - *********** Completed TC_LoginDDT_002 ********
+2021-07-12 15:49:54,499 - INFO - ********Test__002_DDT_testLogin**********
+2021-07-12 15:49:54,501 - INFO - ********Verifying login test**********
+2021-07-12 15:50:09,794 - INFO - ****Passed***
+2021-07-12 15:50:17,526 - INFO - ***Passed*****
+2021-07-12 15:50:23,507 - INFO - ***Passed*****
+2021-07-12 15:50:29,659 - INFO - ***Passed*****
+2021-07-12 15:50:29,660 - INFO - *****Login DDT test Passed*******
+2021-07-12 15:50:29,808 - INFO - ******* END of login DDT Test **********
+2021-07-12 15:50:29,809 - INFO - *********** Completed TC_LoginDDT_002 ********
