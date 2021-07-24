@@ -5,7 +5,6 @@ from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 
 
-
 class Test_001_login:
     baseURL = ReadConfig.getapplicationurl()
     username = ReadConfig.getuseremail()
